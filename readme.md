@@ -102,8 +102,7 @@ Cyber-Security-SOC-Dashboard/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/darshankurali/cyber-security-soc-dashboard.git
-cd cyber-security-soc-dashboard
+git clone https://github.com/darshankurali/cyber_attack_ai.git
 ```
 
 ### 2️⃣ Install Dependencies
